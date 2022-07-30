@@ -1,8 +1,8 @@
-## Bem vindo ao meu perfil, eu sou a Karinny Lemos, desenvolvedora front-end!
+## Bem vindo ao meu perfil, eu sou Karinny Lemos, desenvolvedora front-end!
 <!-- LIST-ACTIVITIES:START -->
 <br>
 
-- 📚 Eu estou estudando **Javascript, React** and **CSS** 
+- 📚 Eu estou estudando **Javascript, React** e **CSS** 
 
 - 🎓 Graduanda em Análise e Desenvolvimento de Sistemas - [UNIPE](https://www.unipe.edu.br/)
 <!--LIST-ACTIVITIES:END -->

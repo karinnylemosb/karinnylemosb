@@ -2,7 +2,7 @@
 <!-- LIST-ACTIVITIES:START -->
 <br>
 
-- 📚 Eu estou estudando **Javascript, React** e **CSS** 
+- 📚 Eu estou estudando **Javascript, React e Bootstrap** 
 
 - 🎓 Graduanda em Análise e Desenvolvimento de Sistemas - [UNIPE](https://www.unipe.edu.br/)
 <!--LIST-ACTIVITIES:END -->

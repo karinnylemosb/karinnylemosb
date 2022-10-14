@@ -2,9 +2,11 @@
 <!-- LIST-ACTIVITIES:START -->
 <br>
 
-- 📚 Eu estou estudando **Javascript, React e Angular ** 
+- 📚 Atualmente estudando ** Javascript, React e Angular **
 
-- 🎓 Graduanda em Análise e Desenvolvimento de Sistemas - [UNIPE](https://www.unipe.edu.br/)
+- 💻 Desenvolvedora Front-End na UBTECH OFFICE - Fábrica de Software do UNIPÊ **
+
+- 🎓 Graduanda em Análise e Desenvolvimento de Sistemas - [UNIPE] (https://www.unipe.edu.br/)
 <!--LIST-ACTIVITIES:END -->
  <br>
  

@@ -2,9 +2,9 @@
 <!-- LIST-ACTIVITIES:START -->
 <br>
 
-- 📚 Atualmente estudando ** Javascript, React e Angular **
+- 📚 Atualmente estudando JavaScript/TypeScript, React e Angular;
 
-- 💻 Desenvolvedora Front-End na UBTECH OFFICE - Fábrica de Software do UNIPÊ **
+- 💻 Desenvolvedora Front-End na UBTECH OFFICE - Fábrica de Software do UNIPÊ;
 
 - 🎓 Graduanda em Análise e Desenvolvimento de Sistemas - [UNIPE] (https://www.unipe.edu.br/)
 <!--LIST-ACTIVITIES:END -->

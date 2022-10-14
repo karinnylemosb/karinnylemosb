@@ -2,7 +2,7 @@
 <!-- LIST-ACTIVITIES:START -->
 <br>
 
-- 📚 Eu estou estudando **Javascript, React e MySQL** 
+- 📚 Eu estou estudando **Javascript, React e Angular ** 
 
 - 🎓 Graduanda em Análise e Desenvolvimento de Sistemas - [UNIPE](https://www.unipe.edu.br/)
 <!--LIST-ACTIVITIES:END -->

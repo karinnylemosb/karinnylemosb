@@ -21,11 +21,16 @@
 ## Eu tenho experiência com:
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Kaka-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Kaka-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Kaka-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kaka-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Kaka-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Kaka-boot" height="30" width="40" src="https://worldvectorlogo.com/logo/bootstrap-4">
+  <img align="center" alt="Kaka-mui" height="30" width="40" src="https://worldvectorlogo.com/logo/material-ui-1">
+  <img align="center" alt="Kaka-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Kaka-Node" height="30" width="40" src="https://worldvectorlogo.com/logo/nodejs-2">
+  <img align="center" alt="Kaka-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  
+ 
+  
 </div>
   
  ##

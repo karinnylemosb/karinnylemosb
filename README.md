@@ -23,12 +23,13 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Kaka-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kaka-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Kaka-boot" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg">
   <img align="center" alt="Kaka-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Kaka-Node" height="30" width="40" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">
-  <img align="center" alt="Kaka-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Kaka-boot" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg">
-  <img align="center" alt="Kaka-mui" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg">  
   <img align="center" alt="Kaka-angular" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg">
+  <img align="center" alt="Kaka-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Kaka-mui" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg">  
+  
 </div>
   
  ##
